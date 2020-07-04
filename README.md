@@ -1,5 +1,4 @@
-# In-clumps-of-six
-### Clustering wikipedia articles
+# Clustering wikipedia articles
 
 ![final cluster](https://user-images.githubusercontent.com/39884389/44083875-c8f28116-9fd2-11e8-97ca-03c4ec6d1461.png)
 
@@ -38,7 +37,3 @@ Below are the clusters with their grouped articles.
 ||Virat_Kohli||Imran_Khan|Arundhati_Roy|Mukesh_Ambani|
 ||Serena_Williams|||||
 ||MS_Dhoni|||||       
-        
-
-
-
