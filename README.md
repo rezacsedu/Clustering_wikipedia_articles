@@ -2,7 +2,7 @@
 
 ![final cluster](https://user-images.githubusercontent.com/39884389/44083875-c8f28116-9fd2-11e8-97ca-03c4ec6d1461.png)
 
-The above plot is an output of an analytical pipeline that began by gathering summaries of 60 articles on wikipedia people pages and ended by analyzing the latent topics within each article. In between, the articles were manipulated on their summaries (by stop words removal and tokenization). The manipulated articles were then transformed into a vector space model (tf-idf), and clustered into groups (k-means). The complete code can be found [here](https://github.com/HaripriyaTV/In-clumps-of-six/blob/master/code.py).
+The above plot is an output of an analytical pipeline that began by gathering summaries of 60 articles on wikipedia people pages and ended by analyzing the latent topics within each article. In between, the articles were manipulated on their summaries (by stop words removal and tokenization). The manipulated articles were then transformed into a vector space model (tf-idf), and clustered into groups (k-means). The complete code can be found [here](https://github.com/rezacsedu/Clustering_wikipedia_articles/blob/master/code.py).
 
 ### Understanding the clusters
 
